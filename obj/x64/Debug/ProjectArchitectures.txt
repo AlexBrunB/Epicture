@@ -1,0 +1,1 @@
+D:\Network\Imgur-UWP-master\Imgur UWP\DotNet_epicture_2016.csproj;x64

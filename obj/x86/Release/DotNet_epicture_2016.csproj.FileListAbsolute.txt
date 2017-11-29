@@ -1,0 +1,409 @@
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\App.xbf
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\MainPage.xbf
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\SecondPage.xbf
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\Imgur UWP.xr.xml
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\Imgur UWP.exe
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\Imgur UWP.pdb
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\resources.pri
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\AppxManifest.xml
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\ilc\Adapters.g.cs
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\ilc\AssemblyInfo.g.cs
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\ilc\Assets\Apps-Gallery-icon.png
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\ilc\Assets\imgur.png
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\ilc\Assets\LockScreenLogo.scale-200.png
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\ilc\Assets\SplashScreen.scale-200.png
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\ilc\Assets\Square150x150Logo.scale-200.png
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\ilc\Assets\Square44x44Logo.scale-200.png
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-24_altform-unplated.png
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\ilc\Assets\StoreLogo.png
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\ilc\Assets\Wide310x150Logo.scale-200.png
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\ilc\clrcompression.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\ilc\Data.g.cs
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\ilc\Helpers.g.cs
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\ilc\Imgur UWP.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\ilc\Imgur UWP.exe
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\ilc\Imgur UWP.ITFProxy.g.cs
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\ilc\Imgur UWP.pdb
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\ilc\Imgur UWP.xr.xml
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\ilc\ImplTypes.g.cs
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\ilc\PInvoke.g.cs
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\ilc\resources.pri
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\ilc\SafeTypes.g.cs
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\ilc\SharedStubs.g.cs
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\DotNet_epicture_2016.build.appxrecipe
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\Imgur.API.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\Microsoft.CSharp.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.ComponentModel.DataAnnotations.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.Core.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.Net.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.Numerics.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.Runtime.Serialization.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.ServiceModel.Web.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.ServiceModel.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.Windows.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.Xml.Linq.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.Xml.Serialization.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.Xml.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\mscorlib.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\Microsoft.VisualBasic.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\Newtonsoft.Json.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.Collections.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.Diagnostics.Tools.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.Diagnostics.Tracing.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.Globalization.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.Globalization.Calendars.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.IO.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.Reflection.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.Reflection.Extensions.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.Reflection.Primitives.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.Resources.ResourceManager.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.Runtime.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.Runtime.Handles.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.Runtime.InteropServices.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.Text.Encoding.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.Text.Encoding.Extensions.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.Threading.Tasks.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.Threading.Timer.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\Microsoft.Win32.Primitives.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.Console.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.Diagnostics.Debug.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.IO.FileSystem.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.Net.Primitives.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.Net.Sockets.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.Runtime.Extensions.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\clrcompression.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.Private.Uri.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.AppContext.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.Buffers.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.Collections.Concurrent.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.Collections.Immutable.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.Collections.NonGeneric.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.Collections.Specialized.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.ComponentModel.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.ComponentModel.Annotations.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.ComponentModel.EventBasedAsync.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.Data.Common.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.Diagnostics.Contracts.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.Diagnostics.DiagnosticSource.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.Diagnostics.StackTrace.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.Dynamic.Runtime.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.Globalization.Extensions.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.IO.Compression.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.IO.Compression.ZipFile.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.IO.FileSystem.Primitives.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.IO.IsolatedStorage.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.IO.UnmanagedMemoryStream.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.Linq.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.Linq.Expressions.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.Linq.Parallel.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.Linq.Queryable.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.Net.Http.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.Net.Http.Rtc.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.Net.NameResolution.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.Net.NetworkInformation.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.Net.Requests.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.Net.WebHeaderCollection.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.Net.WebSockets.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.Net.WebSockets.Client.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.Numerics.Vectors.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.Numerics.Vectors.WindowsRuntime.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.ObjectModel.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.Private.DataContractSerialization.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.Private.ServiceModel.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.Reflection.Context.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.Reflection.DispatchProxy.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.Reflection.Emit.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.Reflection.Metadata.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.Reflection.TypeExtensions.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.Runtime.Numerics.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.Runtime.Serialization.Json.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.Runtime.Serialization.Primitives.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.Runtime.Serialization.Xml.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.Runtime.WindowsRuntime.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.Runtime.WindowsRuntime.UI.Xaml.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.Security.Claims.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.Security.Cryptography.Algorithms.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.Security.Cryptography.Cng.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.Security.Cryptography.Encoding.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.Security.Cryptography.Primitives.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.Security.Cryptography.X509Certificates.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.Security.Principal.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.ServiceModel.Duplex.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.ServiceModel.Http.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.ServiceModel.NetTcp.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.ServiceModel.Primitives.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.ServiceModel.Security.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.Text.Encoding.CodePages.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.Text.RegularExpressions.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.Threading.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.Threading.Overlapped.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.Threading.Tasks.Dataflow.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.Threading.Tasks.Extensions.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.Threading.Tasks.Parallel.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.Xml.ReaderWriter.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.Xml.XDocument.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.Xml.XmlDocument.dll
+D:\dotnet\DotNet_epicture_2016\bin\x86\Release\System.Xml.XmlSerializer.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\DotNet_epicture_2016.csprojResolveAssemblyReference.cache
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\App.g.i.cs
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\App.g.cs
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\MainPage.g.i.cs
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\MainPage.g.cs
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\SecondPage.g.i.cs
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\SecondPage.g.cs
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\XamlTypeInfo.g.cs
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\App.xaml
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\MainPage.xaml
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\SecondPage.xaml
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\App.xbf
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\MainPage.xbf
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\SecondPage.xbf
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\XamlSaveStateFile.xml
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\Imgur UWP.exe
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\Imgur UWP.pdb
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ResourceHandlingTask.state
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\DotNet_epicture_2016.csproj.GenerateResource.Cache
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\priconfig.xml
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\priconfig.xml.intermediate
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\layout.resfiles
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\layout.resfiles.intermediate
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\resources.resfiles
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\resources.resfiles.intermediate
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\pri.resfiles
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\pri.resfiles.intermediate
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\qualifiers.txt
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\qualifiers.txt.intermediate
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\MultipleQualifiersPerDimensionFound.txt
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ProjectArchitectures.txt
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\Properties\Default.rd.xml
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\Imgur UWP.xr.xml
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\AppxManifest.xml
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\Imgur UWP.pdb
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\Imgur UWP.exe
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\Imgur.API.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\Microsoft.CSharp.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.ComponentModel.DataAnnotations.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.Core.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.Net.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.Numerics.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.Runtime.Serialization.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.ServiceModel.Web.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.ServiceModel.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.Windows.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.Xml.Linq.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.Xml.Serialization.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.Xml.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\mscorlib.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\Microsoft.VisualBasic.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\Newtonsoft.Json.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.Collections.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.Diagnostics.Tools.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.Diagnostics.Tracing.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.Globalization.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.Globalization.Calendars.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.IO.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.Reflection.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.Reflection.Extensions.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.Reflection.Primitives.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.Resources.ResourceManager.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.Runtime.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.Runtime.Handles.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.Runtime.InteropServices.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.Text.Encoding.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.Text.Encoding.Extensions.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.Threading.Tasks.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.Threading.Timer.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\Microsoft.Win32.Primitives.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.Console.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.Diagnostics.Debug.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.IO.FileSystem.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.Net.Primitives.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.Net.Sockets.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.Runtime.Extensions.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.Private.Uri.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.AppContext.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.Buffers.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.Collections.Concurrent.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.Collections.Immutable.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.Collections.NonGeneric.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.Collections.Specialized.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.ComponentModel.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.ComponentModel.Annotations.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.ComponentModel.EventBasedAsync.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.Data.Common.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.Diagnostics.Contracts.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.Diagnostics.DiagnosticSource.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.Diagnostics.StackTrace.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.Dynamic.Runtime.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.Globalization.Extensions.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.IO.Compression.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.IO.Compression.ZipFile.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.IO.FileSystem.Primitives.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.IO.IsolatedStorage.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.IO.UnmanagedMemoryStream.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.Linq.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.Linq.Expressions.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.Linq.Parallel.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.Linq.Queryable.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.Net.Http.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.Net.Http.Rtc.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.Net.NameResolution.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.Net.NetworkInformation.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.Net.Requests.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.Net.WebHeaderCollection.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.Net.WebSockets.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.Net.WebSockets.Client.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.Numerics.Vectors.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.Numerics.Vectors.WindowsRuntime.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.ObjectModel.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.Private.DataContractSerialization.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.Private.ServiceModel.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.Reflection.Context.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.Reflection.DispatchProxy.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.Reflection.Emit.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.Reflection.Metadata.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.Reflection.TypeExtensions.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.Runtime.Numerics.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.Runtime.Serialization.Json.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.Runtime.Serialization.Primitives.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.Runtime.Serialization.Xml.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.Runtime.WindowsRuntime.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.Runtime.WindowsRuntime.UI.Xaml.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.Security.Claims.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.Security.Cryptography.Algorithms.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.Security.Cryptography.Cng.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.Security.Cryptography.Encoding.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.Security.Cryptography.Primitives.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.Security.Cryptography.X509Certificates.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.Security.Principal.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.ServiceModel.Duplex.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.ServiceModel.Http.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.ServiceModel.NetTcp.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.ServiceModel.Primitives.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.ServiceModel.Security.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.Text.Encoding.CodePages.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.Text.RegularExpressions.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.Threading.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.Threading.Overlapped.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.Threading.Tasks.Dataflow.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.Threading.Tasks.Extensions.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.Threading.Tasks.Parallel.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.Xml.ReaderWriter.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.Xml.XDocument.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.Xml.XmlDocument.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\System.Xml.XmlSerializer.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\WinMetadata\Windows.winmd
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\resources.pri
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\clrcompression.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\Assets\Apps-Gallery-icon.png
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\Assets\imgur.png
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\Assets\LockScreenLogo.scale-200.png
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\Assets\SplashScreen.scale-200.png
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\Assets\Square150x150Logo.scale-200.png
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\Assets\Square44x44Logo.scale-200.png
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\Assets\Square44x44Logo.targetsize-24_altform-unplated.png
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\Assets\StoreLogo.png
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\in\Assets\Wide310x150Logo.scale-200.png
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc.DotNet_epicture_2016.rsp
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\BuildInfo\BuildInfo.rc
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\BuildInfo\BuildInfo.res
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\BuildInfo\BuildInfo.txt
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\gkargs.rsp
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\ILTransformed\Imgur UWP.closure.csv
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\ILTransformed\Imgur UWP.csv
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\ILTransformed\Imgur UWP.forwarders.csv
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\ILTransformed\Imgur UWP.ilexe
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\ILTransformed\Imgur UWP.ilexe.ILTransformTask.repro
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\ILTransformed\Imgur UWP.ilpdb
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\ILTransformed\Imgur UWP.McgInterop.ildll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\ILTransformed\Imgur UWP.McgInterop.ilpdb
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\ILTransformed\Imgur UWP.metadata
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\ILTransformed\Imgur UWP.reflectionlog.csv
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\ILTransformed\Imgur UWP.res
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\ILTransformed\Imgur.API.ildll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\ILTransformed\Microsoft.CSharp.ildll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\ILTransformed\Microsoft.Win32.Primitives.ildll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\ILTransformed\Newtonsoft.Json.ildll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\ILTransformed\System.AppContext.ildll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\ILTransformed\System.Collections.NonGeneric.ildll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\ILTransformed\System.ComponentModel.ildll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\ILTransformed\System.Console.ildll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\ILTransformed\System.Data.Common.ildll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\ILTransformed\System.Diagnostics.Contracts.ildll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\ILTransformed\System.Diagnostics.Debug.ildll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\ILTransformed\System.Diagnostics.DiagnosticSource.ildll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\ILTransformed\System.Diagnostics.StackTrace.ildll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\ILTransformed\System.Diagnostics.Tools.ildll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\ILTransformed\System.Globalization.Calendars.ildll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\ILTransformed\System.Globalization.Extensions.ildll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\ILTransformed\System.Globalization.ildll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\ILTransformed\System.IO.FileSystem.ildll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\ILTransformed\System.IO.FileSystem.Primitives.ildll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\ILTransformed\System.IO.IsolatedStorage.ildll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\ILTransformed\System.IO.UnmanagedMemoryStream.ildll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\ILTransformed\System.Net.Http.ildll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\ILTransformed\System.Net.Primitives.ildll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\ILTransformed\System.Numerics.Vectors.ildll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.DeveloperExperience.AppX.ildll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.DeveloperExperience.AppX.ilpdb
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.PortableThunks.ildll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.PortableThunks.ilpdb
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.StackTraceGenerator.ildll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.StackTraceGenerator.ilpdb
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.WinRTInterop.CoreLib.ildll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.WinRTInterop.CoreLib.ilpdb
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\ILTransformed\System.Reflection.DispatchProxy.ildll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.Handles.ildll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.ildll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.InteropServices.WindowsRuntime.ildll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.Numerics.ildll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.Serialization.Primitives.ildll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.WindowsRuntime.ildll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.WindowsRuntime.UI.Xaml.ildll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\ILTransformed\System.Security.Claims.ildll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\ILTransformed\System.Security.Cryptography.Algorithms.ildll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\ILTransformed\System.Security.Cryptography.Cng.ildll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\ILTransformed\System.Security.Cryptography.Encoding.ildll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\ILTransformed\System.Security.Cryptography.Primitives.ildll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\ILTransformed\System.Security.Cryptography.X509Certificates.ildll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\ILTransformed\System.Security.Principal.ildll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\ILTransformed\System.Text.Encoding.CodePages.ildll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\ILTransformed\System.Text.Encoding.Extensions.ildll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\ILTransformed\System.Text.Encoding.ildll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\ILTransformed\System.Threading.ildll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\ILTransformed\System.Threading.Overlapped.ildll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\ILTransformed\System.Threading.Tasks.Extensions.ildll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\ILTransformed\System.Threading.Tasks.ildll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\ILTransformed\System.Threading.Tasks.Parallel.ildll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\ILTransformed\System.Xml.ReaderWriter.ildll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\ILTransformed\System.Xml.XDocument.ildll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\Imgur UWP.ITFProxy.g.cs
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\Imgur UWP.McgInterop.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\Imgur UWP.McgInterop.pdb
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\Imgur UWP.McgInterop\Adapters.g.cs
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\Imgur UWP.McgInterop\AssemblyInfo.g.cs
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\Imgur UWP.McgInterop\Data.g.cs
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\Imgur UWP.McgInterop\Helpers.g.cs
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\Imgur UWP.McgInterop\ImplTypes.g.cs
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\Imgur UWP.McgInterop\PInvoke.g.cs
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\Imgur UWP.McgInterop\SafeTypes.g.cs
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\Imgur UWP.McgInterop\SharedStubs.g.cs
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\MDIL\Imgur UWP.mdilexe
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\MDIL\Imgur UWP.mdilpdb
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\MDIL\Imgur UWP.rsp
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\Native.res
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\Native\Imgur UWP.pdb
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\PreMergeILTransformed\.ILTransformTask.repro
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\PreMergeILTransformed\Imgur UWP.exe
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\PreMergeILTransformed\Imgur UWP.pdb
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\PreMergeILTransformed\Newtonsoft.Json.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\rhbindargs.Imgur UWP.rsp
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\sgargs.rsp
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\TransformedSRWR\System.Runtime.WindowsRuntime.dll
+D:\dotnet\DotNet_epicture_2016\obj\x86\Release\ilc\intermediate\TransformedSRWR\System.Runtime.WindowsRuntime.dll.ILTransformTask.repro

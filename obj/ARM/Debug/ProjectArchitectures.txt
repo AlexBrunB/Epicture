@@ -1,0 +1,1 @@
+D:\Network\Imgur-UWP-master\Imgur UWP\Imgur UWP.csproj;arm

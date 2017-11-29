@@ -1,0 +1,1 @@
+D:\dotnet\DotNet_epicture_2016\DotNet_epicture_2016\DotNet_epicture_2016.csproj;x86
